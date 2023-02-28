@@ -1,0 +1,39 @@
+.mega-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.linear-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 40px;
+}
+.counter {
+  color: #0f172a;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.para {
+  color: #334155;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  border-radius: 6px;
+  padding: 6px;
+}
+.note {
+  color: #1e293b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
